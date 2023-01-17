@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.herobackground {
+  background-image: url("./src/TRANSYLVANIA\ COLLEGE-86.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.background-open {
+  background-image: url("./src/IMG_7580.JPG");
+  background-size: cover;
+  background-position: bottom;
+}
